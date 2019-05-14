@@ -9,7 +9,7 @@
         http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
-        <bean class="com.concretepage.service.ArticleService"/>
+    <!--    <bean class="com.studia.concretepage.service.ArticleService"/>-->
         <bean name="jackson2ObjectMapper"
               class="org.springframework.http.converter.json.Jackson2ObjectMapperFactoryBean">
             <property name="indentOutput" value="true"/>

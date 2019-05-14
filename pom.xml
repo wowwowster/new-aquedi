@@ -7,7 +7,7 @@
     <artifactId>new-aquedi</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>Sandre</name>
+    <name>new-aquedi</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -45,6 +45,7 @@
     </modules>
 
     <build>
+
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

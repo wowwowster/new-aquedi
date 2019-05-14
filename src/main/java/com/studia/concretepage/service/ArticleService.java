@@ -1,9 +1,11 @@
-package com.concretepage.service;
+package com.studia.concretepage.service;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.concretepage.entity.Article;
+import com.studia.concretepage.entity.Article;
+import org.springframework.stereotype.Service;
 
+@Service
 public class ArticleService {
     public List<Article> getAllArticles(){
         List<Article> list = new ArrayList<Article>();
