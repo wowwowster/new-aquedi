@@ -1,4 +1,4 @@
-package com.studia;
+package com.telino;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package com.studia.concretepage.entity;
+package com.telino.concretepage.entity;
 
 public class Article {
     private int articleId;

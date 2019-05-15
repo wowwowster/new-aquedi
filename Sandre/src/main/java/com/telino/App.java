@@ -1,4 +1,4 @@
-package com.studia;
+package com.telino;
 
 /**
  * Hello world!

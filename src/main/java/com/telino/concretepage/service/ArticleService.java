@@ -1,8 +1,8 @@
-package com.studia.concretepage.service;
+package com.telino.concretepage.service;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.studia.concretepage.entity.Article;
+import com.telino.concretepage.entity.Article;
 import org.springframework.stereotype.Service;
 
 @Service
